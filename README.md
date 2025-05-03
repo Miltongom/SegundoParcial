@@ -1,0 +1,2 @@
+# SegundoParcial
+DASBOARD y DIAGRAMAS
